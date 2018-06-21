@@ -1,2 +1,2 @@
 # workshop-rn
-React Native with Redux Workshop with Twitter API integration
+React Native w/Redux Workshop - Twitter API
