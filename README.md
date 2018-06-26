@@ -1,6 +1,20 @@
 # Workshop-RN
 React Native w/Redux Workshop - Twitter API
 
+## Wireframes
+
+### Home
+
+![alt text](https://github.com/van1985/workshop-rn/wireframes/home.png "Home")
+
+### Twitter Details
+
+### Search & Trends
+
+### Configuration
+
+## Stories
+
 ## Acceptance Criteria
 
 * The app should work for Android & iOS
