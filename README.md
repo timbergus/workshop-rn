@@ -12,7 +12,7 @@ React Native w/Redux Workshop - Twitter API
 ### Twitter Details
 
 <p align="center">
-  <img height="30%" width="30%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/tweet_details.png">
+  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/tweet_details.png">
 </p>
 
 ### Search & Trends
