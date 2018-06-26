@@ -1,6 +1,17 @@
 # Workshop-RN
 React Native w/Redux Workshop - Twitter API
 
+## Acceptance Criteria
+
+* The app should work for Android & iOS
+* 
+
+
+## Some tips...
+
+* Use flatlist component for develop the different lists
+* Use ActivityIndicator for develop loading component. Make a specific component, so you can reuse it. 
+ 
 ## Set Up Server
 
 1. Open the console
