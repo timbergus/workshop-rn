@@ -18,16 +18,10 @@ React Native w/Redux Workshop - Twitter API
 ### Search & Trends
 
 <p align="center">
-  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_1.png">
+  <img height="80%" width="80%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_1.png">
 </p>
 <p align="center">
-  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_2.png">
-</p>
-<p align="center">
-  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_3.png">
-</p>
-<p align="center">
-  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_4.png">
+  <img height="80%" width="80%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_2.png">
 </p>
 
 ### Configuration
