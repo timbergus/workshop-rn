@@ -32,14 +32,14 @@ app.get('/', function (req, res) {
   res.send('Twitter API is running...');
 });
 
-//http://localhost:3000/timeline?count=100
+//http://localhost:8080/timeline?count=100
 app.get('/timeline', function (req, res) {
     T.get('statuses/home_timeline', req.query, function(err, data, response) {
       return res.json(data);
     })
 });
 
-//http://localhost:3000/myplace?lat=-38.7116780&long=-62.2680780
+//http://localhost:8080/myplace?lat=-38.7116780&long=-62.2680780
 app.get('/myplace', function(req, res) {
   console.log(req);
   T.get('/trends/closest', req.query, function(err, data, response) {
@@ -47,17 +47,24 @@ app.get('/myplace', function(req, res) {
   })
 });
 
-//http://localhost:3000/trends?id=23424747
+//http://localhost:8080/trends?id=23424747
 app.get('/trends', function(req, res) {
   T.get('/trends/place', req.query, function(err, data, response) {
       return res.json(data);
   })
 });
 
-//http://localhost:3000/search?q=%23TanBionicaCocaColaFM
+//http://localhost:8080/search?q=%23TanBionicaCocaColaFM
 app.get('/search', function(req, res) {
   T.get('/search/tweets', req.query, function(err, data, response) {
       return res.json(data);
+  })
+});
+
+//http://localhost:8080/show?id=1011417658833551361
+app.get('/show', function (req, res) {
+  T.get('statuses/show/'+req.query.id, function(err, data, response) {
+    return res.json(data);
   })
 });
 
