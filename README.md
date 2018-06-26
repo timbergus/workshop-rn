@@ -33,33 +33,30 @@ React Native w/Redux Workshop - Twitter API
 
 ## Stories
 
-As a user ,I want to see my twitter timeline
+**As a user ,I want to see my twitter timeline.**
 
-As a user, I want to see my twitter timele  (with infinite scroll)
+**As a user, I want to see my twitter timele  (with infinite scroll).**
 
-As a user, I want to see a specific twitter details
+**As a user, I want to see a specific twitter details.**
 
-As a user, I want to see my country trends
+**As a user, I want to see my country trends.**
 
-As a user, I want to search on twitter to quickly find news and events
+**As a user, I want to search on twitter to quickly find news and events.**
 
-As a user, I want to see all the results for a specific search (with infinite scroll)
+**As a user, I want to see all the results for a specific search (with infinite scroll).**
 
-As a user, I want to configure what I want to see in my twitter timeline. This configuration must be reflected in the home section.
+**As a user, I want to configure what I want to see in my twitter timeline. This configuration must be reflected in the home section.**
 
-
-## Acceptance Criteria
-
-* The app should work for Android & iOS
-* 
-
+**As a user, I want to use the app in Android & iOS Platform**
 
 ## Some tips...
 
-* Use flatlist component for develop the different lists
+* Use flatlist component for develop the different lists.
 * Use ActivityIndicator for develop loading component. Make a specific component, so you can reuse it. 
+* Use propTypes property for typechecking on the props for a component.
+* Use the _base.js file to save all colors and attributes that are cross to the application.
  
-## Set Up Server
+## Set Up Twitter Server
 
 1. Open the console
 2. Enter inside `server` folder
