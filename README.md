@@ -5,7 +5,11 @@ React Native w/Redux Workshop - Twitter API
 
 ### Home
 
-![](https://github.com/van1985/workshop-rn/blob/master/wireframes/home.png) <!-- .element height="50%" width="50%" -->
+![](https://github.com/van1985/workshop-rn/blob/master/wireframes/home.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/home.png">
+</p>
 
 ### Twitter Details
 
