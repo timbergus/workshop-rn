@@ -33,21 +33,21 @@ React Native w/Redux Workshop - Twitter API
 
 ## Stories
 
-**As a user ,I want to see my twitter timeline.**
+1. **As a user ,I want to see my twitter timeline.**
 
-**As a user, I want to see my twitter timele  (with infinite scroll).**
+2. **As a user, I want to see my twitter timele  (with infinite scroll).**
 
-**As a user, I want to see a specific twitter details.**
+3. **As a user, I want to see a specific twitter details.**
 
-**As a user, I want to see my country trends.**
+4. **As a user, I want to see my country trends.**
 
-**As a user, I want to search on twitter to quickly find news and events.**
+5. **As a user, I want to search on twitter to quickly find news and events.**
 
-**As a user, I want to see all the results for a specific search (with infinite scroll).**
+6. **As a user, I want to see all the results for a specific search (with infinite scroll).**
 
-**As a user, I want to configure what I want to see in my twitter timeline. This configuration must be reflected in the home section.**
+7. **As a user, I want to configure what I want to see in my twitter timeline. This configuration must be reflected in the home section.**
 
-**As a user, I want to use the app in Android & iOS Platform**
+8. **As a user, I want to use the app in Android & iOS Platform**
 
 ## Some tips...
 
