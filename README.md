@@ -12,20 +12,28 @@ React Native w/Redux Workshop - Twitter API
 ### Twitter Details
 
 <p align="center">
-  <img height="38%" width="38%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/tweet_details.png">
+  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/tweet_details.png">
 </p>
 
 ### Search & Trends
 
-![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/search_1.png)
-![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/search_2.png)
-![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/search_3.png)
-![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/search_4.png)
+<p align="center">
+  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_1.png">
+</p>
+<p align="center">
+  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_2.png">
+</p>
+<p align="center">
+  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_3.png">
+</p>
+<p align="center">
+  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/search_4.png">
+</p>
 
 ### Configuration
 
 <p align="center">
-  <img height="38%" width="38%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/configuration.png">
+  <img height="40%" width="40%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/configuration.png">
 </p>
 
 
