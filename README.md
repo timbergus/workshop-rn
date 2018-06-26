@@ -1,4 +1,4 @@
-# workshop-rn
+# Workshop-RN
 React Native w/Redux Workshop - Twitter API
 
 ## Set Up Server
