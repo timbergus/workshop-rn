@@ -5,22 +5,22 @@ React Native w/Redux Workshop - Twitter API
 
 ### Home
 
-![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/home.png)
+![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/home.png =250x)
 
 ### Twitter Details
 
-![alt text](https://github.com/van1985/workshop-rn/wireframes/tweet_details.png)
+![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/tweet_details.png)
 
 ### Search & Trends
 
-![alt text](https://github.com/van1985/workshop-rn/wireframes/search_1.png)
-![alt text](https://github.com/van1985/workshop-rn/wireframes/search_2.png)
-![alt text](https://github.com/van1985/workshop-rn/wireframes/search_3.png)
-![alt text](https://github.com/van1985/workshop-rn/wireframes/search_4.png)
+![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/search_1.png)
+![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/search_2.png)
+![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/search_3.png)
+![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/search_4.png)
 
 ### Configuration
 
-![alt text](https://github.com/van1985/workshop-rn/wireframes/configuration.png)
+![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/configuration.png)
 
 ## Stories
 
