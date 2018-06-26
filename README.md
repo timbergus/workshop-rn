@@ -5,7 +5,7 @@ React Native w/Redux Workshop - Twitter API
 
 ### Home
 
-![alt text](https://github.com/van1985/workshop-rn/wireframes/home.png "Home")
+![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/home.png)
 
 ### Twitter Details
 
