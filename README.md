@@ -5,15 +5,15 @@ React Native w/Redux Workshop - Twitter API
 
 ### Home
 
-![](https://github.com/van1985/workshop-rn/blob/master/wireframes/home.png)
-
 <p align="center">
   <img height="80%" width="80%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/home.png">
 </p>
 
 ### Twitter Details
 
-![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/tweet_details.png)
+<p align="center">
+  <img height="80%" width="80%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/tweet_details.png">
+</p>
 
 ### Search & Trends
 
@@ -24,7 +24,10 @@ React Native w/Redux Workshop - Twitter API
 
 ### Configuration
 
-![alt text](https://github.com/van1985/workshop-rn/blob/master/wireframes/configuration.png)
+<p align="center">
+  <img height="80%" width="80%" src="https://github.com/van1985/workshop-rn/blob/master/wireframes/configuration.png">
+</p>
+
 
 ## Stories
 
