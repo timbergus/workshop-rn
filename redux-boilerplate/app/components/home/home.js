@@ -12,7 +12,7 @@ import {
 import {bindActionCreators} from 'redux';
 import { connect } from 'react-redux';
 
-import * as Actions from '../actions'; //Import your actions
+import * as Actions from '../../actions'; //Import your actions
 
 class Home extends Component {
     constructor(props) {
