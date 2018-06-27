@@ -16,6 +16,10 @@ The training will start at a low level, and does not require in depth knowledge 
 
 TBD - Seed
 
+## Getting Started
+
+If this is your first time creating a React Native app, make sure you have Node, npm or yarn installed. For default, it's working with EXPO.
+
 ## Wireframes
 
 ### Home
