@@ -5,18 +5,16 @@ React Native w/Redux Workshop - Twitter API
 This workshop teaches the basics of React Native development. We want to help you create the best of breed user experiences and mobile applications. The idea is to make our own twitter application starting from a react-native/redux boilerplate. 
 
 ##  Who Should Attend
-The training will start at a low level, and does not require in depth knowledge of the platform in question. Desirable participant profile: A basic knowledge on: 
+The training will start at a low level, and does not require in depth knowledge of the platform in question. Desirable participant profile (basic knowledge): 
 - HTML
 - CSS (Especially Flexbox)
 - JavaScript
 - React Native
 - Redux
 
-## Environment Setup - Seed
-
-TBD - Seed
-
 ## Getting Started
+
+TBD
 
 If this is your first time creating a React Native app, make sure you have Node, npm or yarn installed. For default, it's working with EXPO.
 
