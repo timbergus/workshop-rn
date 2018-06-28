@@ -14,11 +14,17 @@ The training will start at a low level, and does not require in depth knowledge 
 
 ## Getting Started
 
-TBD
-
 If this is your first time creating a React Native app, make sure you have Node, npm or yarn installed. For default, it's working with EXPO.
 
-`npm start` 
+Follow the next steps: 
+
+1. Run `git clone https://github.com/van1985/workshop-rn.git`
+2. Enter workshop-rn folder: `cd workshop-rn`
+3. Enter redux-boilerplate folder: `cd redux-boilerplate`
+4. Run `npm install`
+5. open an emulator (android or iOS - from android studio, xCode , genymotion)
+6. Run `npm start` (and choose 'a' for android or 'i' for iOS emulator)
+7. enjoy
 
 ## Wireframes
 
