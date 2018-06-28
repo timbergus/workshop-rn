@@ -14,6 +14,8 @@ The training will start at a low level, and does not require in depth knowledge 
 
 ## Getting Started
 
+Please, use this repository as a base for you workshop phase. The idea is to fork this project so everyone uses the same folder structure for the workshop.
+
 If this is your first time creating a React Native app, make sure you have Node, npm or yarn installed. For default, it's working with EXPO.
 
 Follow the next steps: 
@@ -24,7 +26,7 @@ Follow the next steps:
 4. Run `npm install`
 5. open an emulator (android or iOS - from android studio, xCode , genymotion)
 6. Run `npm start` (and choose 'a' for android or 'i' for iOS emulator)
-7. enjoy
+7. Enjoy
 
 ## Wireframes
 
