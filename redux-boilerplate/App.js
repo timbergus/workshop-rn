@@ -1,18 +1,23 @@
-
-import React, { Component } from 'react';
+import React from 'react';
+import { AppRegistry } from 'react-native';
 import { Provider } from 'react-redux';
+import { createStore, applyMiddleware } from 'redux';
+import thunk from 'redux-thunk';
 
-import store from './app/store'; //Import the store
-import Navigator from './app/navigator'; //Import the navigator
-//import HomeScreen from './app/screens/HomeScreen' //Import the component file
+import AppReducer from './app/reducers';
+import { AppNavigator, middleware } from './app/components/AppNavigator';
 
 
-export default class App extends Component {
-    render() {
-        return (
-            <Provider store={store}>
-                <Navigator />
-            </Provider>
-        );
-    }
+const store = createStore(AppReducer, applyMiddleware(thunk));
+
+class App extends React.Component {
+  render() {
+    return (
+      <Provider store={store}>
+        <AppNavigator />
+      </Provider>
+    );
+  }
 }
+
+export default App;

@@ -1,20 +1,25 @@
 import React from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
-import {StackNavigator} from 'react-navigation';
+import PropTypes from 'prop-types';
 import Home from '../components/home/home' //Import the component file
 
-export default class HomeScreen extends React.Component {
-  
-  render() {
-    return (
-      <View style={styles.container}>
-        <Button
-            title='Check the categories'  />
-        <Home />
-      </View>
-    );
-  }
-}
+const HomeScreen = ({ navigation }) => (
+  <View style={styles.container}>
+    <Button
+        title='Check the categories'  
+        onPress={() => navigation.dispatch({ type: 'Categories' })}  
+    />
+    <Home />
+  </View>
+);
+
+HomeScreen.propTypes = {
+  navigation: PropTypes.object.isRequired,
+};
+
+HomeScreen.navigationOptions = {
+  title: 'Home',
+};
 
 const styles = StyleSheet.create({
   container: {
@@ -22,3 +27,5 @@ const styles = StyleSheet.create({
     backgroundColor: '#FF44'
   },
 });
+
+export default HomeScreen;
