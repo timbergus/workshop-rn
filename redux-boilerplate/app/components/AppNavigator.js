@@ -7,18 +7,14 @@ import {
   createReactNavigationReduxMiddleware,
 } from 'react-navigation-redux-helpers';
 
-import HomeScreen from '../screens/homeScreen';
-import CategoriesScreen from '../screens/categoriesScreen';
+import Routes from '../config/routes';
 
 const middleware = createReactNavigationReduxMiddleware(
   'root',
   state => state.nav
 );
 
-const RootNavigator = createStackNavigator({
-  Home: { screen: HomeScreen },
-  Categories: { screen: CategoriesScreen },
-});
+const RootNavigator = createStackNavigator(Routes);
 
 const AppWithNavigationState = reduxifyNavigator(RootNavigator, 'root');
 
